@@ -169,3 +169,4 @@ if (!is.null(df_long) && nrow(df_long) > 0) {
   cat("df_long está vacío.\n")
 }
 
+
